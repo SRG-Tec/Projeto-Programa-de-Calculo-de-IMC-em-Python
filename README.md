@@ -1,4 +1,4 @@
-# Projeto: Programa de Cálculo de IMC em PythonPython
+# Projeto: Programa de Cálculo de IMC em Python
 
 ## 📚 Descrição
 Este projeto foi desenvolvido durante o **1º semestre** do curso de **Cibersegurança - UNOPAR** como parte da disciplina de **Linguagem de Programação**. O objetivo foi criar um programa em Python para calcular o **Índice de Massa Corporal (IMC)**, utilizando o **Google Cloud Shell Editor** como ambiente de desenvolvimento.
